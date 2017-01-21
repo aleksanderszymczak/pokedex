@@ -12,6 +12,7 @@
 		EAA83C7B1E33C142004362A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAA83C791E33C142004362A9 /* Main.storyboard */; };
 		EAA83C7D1E33C142004362A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAA83C7C1E33C142004362A9 /* Assets.xcassets */; };
 		EAA83C801E33C142004362A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAA83C7E1E33C142004362A9 /* LaunchScreen.storyboard */; };
+		EAA83C881E33C6DA004362A9 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = EAA83C871E33C6DA004362A9 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EAA83C7C1E33C142004362A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EAA83C7F1E33C142004362A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EAA83C811E33C142004362A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EAA83C871E33C6DA004362A9 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				EAA83C771E33C142004362A9 /* ViewController.swift */,
 				EAA83C791E33C142004362A9 /* Main.storyboard */,
 				EAA83C7C1E33C142004362A9 /* Assets.xcassets */,
+				EAA83C871E33C6DA004362A9 /* pokemon.csv */,
 				EAA83C7E1E33C142004362A9 /* LaunchScreen.storyboard */,
 				EAA83C811E33C142004362A9 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				EAA83C801E33C142004362A9 /* LaunchScreen.storyboard in Resources */,
 				EAA83C7D1E33C142004362A9 /* Assets.xcassets in Resources */,
+				EAA83C881E33C6DA004362A9 /* pokemon.csv in Resources */,
 				EAA83C7B1E33C142004362A9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +304,7 @@
 				EAA83C861E33C142004362A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
